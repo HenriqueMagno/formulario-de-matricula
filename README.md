@@ -20,7 +20,6 @@ O que aprendi:
 - Estruturação semântica com HTML
 - Flexbox
 - Grid Layout
-- Responsividade
 - Organização de formulários
 - Estados de inputs
 - Organização de CSS
