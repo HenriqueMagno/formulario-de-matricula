@@ -8,7 +8,7 @@ link: https://henriquemagno.github.io/formulario-de-matricula/
 
 Preview
 
-/assets/preview-forms.png
+(https://github.com/HenriqueMagno/formulario-de-matricula/blob/main/assets/preview-forms.png)
 
 Tecnologias
 
