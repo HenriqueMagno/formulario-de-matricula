@@ -22,7 +22,7 @@ O que aprendi:
 - Grid Layout
 - Organização de formulários
 - Estados de inputs
-- Organização de CSS
+- Organização de CSS3
 
 Objetivo
 
